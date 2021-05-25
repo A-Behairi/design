@@ -1,5 +1,5 @@
 # design-proposal
-## Major design concepts are: Colors on White Board, Bold Typography, & Dark Mode.  
+## Main design concepts are: Colors on White Board, Bold Typography, & Dark Mode.  
 
 ## Project setup
 ```
